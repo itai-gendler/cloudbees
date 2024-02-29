@@ -1,12 +1,11 @@
 # This file was edited by CloudBees Feature Management
 type: experiment
+labels:
+  - test
+enabled: false
 flag: titleColors
 availableValues:
   - Yellow
   - Green
   - Blue
   - White
-platforms:
-  - name: NodeJS
-    value: Blue
-value: Purple
