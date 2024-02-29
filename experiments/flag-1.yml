@@ -1,0 +1,7 @@
+# This file was edited by CloudBees Feature Management
+type: experiment
+description: flag -1
+labels:
+  - test
+flag: flag-1
+value: true
